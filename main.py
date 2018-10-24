@@ -9,8 +9,6 @@ import sys
 import requests
 import urllib.parse
 
-# url = "http://ca.deppon.com/"
-# baseurl = "http://kingkk.com/t/tool/payload/"
 
 
 def index(baseurl):
